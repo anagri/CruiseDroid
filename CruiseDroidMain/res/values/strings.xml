@@ -2,4 +2,5 @@
 <resources>
     <string name="hello">Hello World, CruiseDroidWelcomeActivity!</string>
     <string name="app_name">CruiseDroid</string>
+    <string name="menu_restart_job">Trigger Build</string>
 </resources>
